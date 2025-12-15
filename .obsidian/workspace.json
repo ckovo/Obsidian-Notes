@@ -164,13 +164,23 @@
               "icon": "lucide-list",
               "title": "欢迎 的大纲"
             }
+          },
+          {
+            "id": "5bffcacc064e1090",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 415.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,10 +190,13 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false
+      "bases:创建新数据库": false,
+      "githobs:Manage a github issue": false,
+      "yet-another-obsidian-synchronizer:YAOS": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5d5f632678cb98b0",
+  "active": "84f3868779a7ae4a",
   "lastOpenFiles": [
     "未命名",
     "欢迎.md"
